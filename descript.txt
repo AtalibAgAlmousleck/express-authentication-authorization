@@ -1,0 +1,6 @@
+ 
+
+ Authentication vs Authorization
+
+Authentication:
+      -> Sig
